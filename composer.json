@@ -8,7 +8,7 @@
   ],
   "type": "library",
   "support": {
-    "issues": "https://github.com/ipanta/pay/issues",
+    "issues": "https://github.com/yansongda/pay/issues",
     "source": "https://github.com/ipanta/pay"
   },
   "authors": [
@@ -35,12 +35,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Ipanta\\Pay\\": "src"
+      "Yansongda\\Pay\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Ipanta\\Pay\\Tests\\": "tests"
+      "Yansongda\\Pay\\Tests\\": "tests"
     }
   },
   "license": "MIT"
