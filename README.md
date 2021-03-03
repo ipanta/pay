@@ -125,7 +125,7 @@ QQ交流群：690027516
 
 ## 安装
 ```shell
-composer require yansongda/pay -vvv
+composer require ipanta/pay -vvv
 ```
 
 ## 使用说明
