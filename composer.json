@@ -1,5 +1,5 @@
 {
-  "name": "yansongda/pay",
+  "name": "ipanta/pay",
   "description": "专注 Alipay 和 WeChat 的支付扩展包",
   "keywords": [
     "alipay",
@@ -24,7 +24,7 @@
     "ext-libxml": "*",
     "ext-json": "*",
     "ext-bcmath": "*",
-    "yansongda/supports": "^2.0",
+    "ipanta/supports": "^2.0",
     "symfony/http-foundation": "^4.0 || ^5.0.7",
     "symfony/event-dispatcher": "^4.0 || ^5.0"
   },
@@ -35,12 +35,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Yansongda\\Pay\\": "src"
+      "Ipanta\\Pay\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Yansongda\\Pay\\Tests\\": "tests"
+      "Ipanta\\Pay\\Tests\\": "tests"
     }
   },
   "license": "MIT"
